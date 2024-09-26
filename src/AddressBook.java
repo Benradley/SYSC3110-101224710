@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class AddressBook {
-
+//testing editing inside of github
     private ArrayList<BuddyInfo> buddies;
 
     public AddressBook (){
